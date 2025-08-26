@@ -1,0 +1,21 @@
+1.写四个方法(增 删 改 查)
+//添加学生的业务逻辑
+    public static void addStudent() {
+        System.out.println("添加学生");
+    }
+
+    //删除学生的业务逻辑
+    public static void deleteStudent() {
+
+    }
+
+    //修改学生的业务逻辑
+    public static void updateStudent() {
+
+    }
+
+    //查询学生的业务逻辑
+    public static void queryStudent() {
+        System.out.println("查询学生");
+    }
+2.有一个学生类(标准的javabean)
