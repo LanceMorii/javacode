@@ -3,7 +3,7 @@ package polymorphism.a1;
 /**
  * @Author: Maven
  * @Date: 2025/8/29 2:33 （日期和时间）
- * @OOTD: 文件内容
+ * @OOTD: 测试类
  */
 public class Test {
     public static void main(String[] args) {
